@@ -117,36 +117,6 @@
     width: 800px;
 }
 
-/* cards__section */
-.cards__section {
-
-
-}
-
-.card {
-    flex-direction: column;
-}
-
-.col {
-    margin: 0 auto;
-}
-
-.card-body {
-border-radius: 10px;
-
-}
-.color-1 {
-    background-color: #7d3865;
-  }
-  
-  .color-2 {
-    background-color: #f8b703;
-  }
-  
-  .color-3 {
-    background-color: #0fa2a9;
-  }
-
 /*  goods */
 .goods__section {
     padding-top: 150px;
